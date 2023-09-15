@@ -1,0 +1,16 @@
+
+
+h1 { padding-top: 60px !important;
+  padding-bottom: 50px;
+text-align: center;
+background-color: #ececec;}
+
+.bg-image{
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Carter+One&display=swap');
+
+body { --bs-body-font-family: 'Carter One', cursive;}
